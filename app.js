@@ -6,3 +6,9 @@ const printProfile = (profileDataArrs) => {
 };
 
 printProfile(profileData);
+
+const printProfileData = (profileDataArr) => {
+  console.log(profileDataArr);
+};
+
+printProfileData(profileDataArgs);
